@@ -1,6 +1,6 @@
 Name:		texlive-esrelation
 Version:	37236
-Release:	1
+Release:	2
 Summary:	Provides a symbol set for describing relations between ordered pairs
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/esrelation
