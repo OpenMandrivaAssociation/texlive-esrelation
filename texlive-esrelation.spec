@@ -3,7 +3,7 @@ Version:	37236
 Release:	2
 Summary:	Provides a symbol set for describing relations between ordered pairs
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/esrelation
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/esrelation
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/esrelation.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/esrelation.doc.r%{version}.tar.xz
